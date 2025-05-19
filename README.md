@@ -1,2 +1,2 @@
 # AI-legal-consultant
-in development stage 
+in development stage :) 
