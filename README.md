@@ -1,4 +1,5 @@
 # AI-legal-consultant
-in development stage :) 
-<br>
-the programm is under progress and will complete in about 1.5 month 
+in development stage :)  
+the programm is under progress and will complete in about 1.5 month  
+
+The datasets are in the **`datasets`** folder.
